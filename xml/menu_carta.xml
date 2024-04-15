@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carta>
+    <plato name="Hamburgesas">
+      <name>HEIDELBERG</name>
+      <description>Hamburguesa premium de vaca vieja, queso cheddar,bacon ahumado, cebolla crujiente y nuestra mahonesa original</description>
+      <calorias>550 kcal</calorias>
+      <price> 9.50€</price>
+      <imagen>./img/hmb_heidelberg.png</imagen>
+    </plato>
+
+    <plato name="Hamburgesas">
+      <name>TRUFADA</name>
+      <description>Hamburguesa premium de vaca vieja, mahonesa trufada, crema de ceps, rúcula, queso edam, escamas de parmesano</description>
+      <calorias>570 kcal</calorias>
+      <price> 9.50€</price>
+      <imagen>./img/hmb_trufada.png</imagen>
+    </plato>
+    
+    <plato name="Hamburgesas">
+      <name>HAMBURGO</name>
+      <description>Hamburguesa premium de vaca vieja, queso cheddar, lechuga, tomate, cebolla y nuestra mahonesa original</description>
+      <calorias>540 kcal</calorias>
+      <price> 8.50€</price>
+      <imagen>./img/hmb_hamburgo.png</imagen>
+    </plato>
+
+    <plato name="Hamburgesas">
+      <name>CARBONARA</name>
+      <description>Hamburguesa premium de vaca vieja, salsa carbonara con bacon crocante, huevo, cebolla a la cerveza y parmenaso en polvo</description>
+      <calorias>650 kcal</calorias>
+      <price> 9.50€</price>
+      <imagen>./img/hmb_carbonara.png</imagen>
+    </plato>
+
+    <plato name="Hamburgesas">
+      <name>OLDENBURGO</name>
+      <description>Hamburgesa premium de vaca vieja, huevo, bacon ahumado y queso cheddar</description>
+      <calorias>580 kcal</calorias>
+      <price> 8.99€</price>
+      <imagen>./img/hmb_oldemburgo.png</imagen>
+    </plato>
+
+    <plato name="Hamburgesas">
+      <name>LA CABRA</name>
+      <description>Hamburguesa premium de vaca vieja, queso de cabra, cebolla pochada, salsa miel y mostaza, tomate a la plancha y brotes de canónigos y rúcula</description>
+      <calorias>550 kcal</calorias>
+      <price> 8.50€</price>
+      <imagen>./img/hmb_lacabra.png</imagen>
+    </plato>
+
+    <plato name="Frankfurts">
+      <name>MÜNSTER</name>
+      <description>Bratwurst sobre cama de guacamole en delicioso pan de mantequilla, queso cheddar, bacon crocante, mahonesa chipotle, crunchi de nachos y jalapeños</description>
+      <calorias>300 kcal</calorias>
+      <price> 7.95€</price>
+      <imagen>./img/fnk_munster.png</imagen>
+    </plato>
+
+    <plato name="Frankfurts">
+      <name>DORTMUND</name>
+      <description>Super frankfurt sobre delicioso pan de mantequilla, cebolla pochada a la cerveza, queso cheddar, mozzarella rallada, bacon crocante, mahonesa original y cebollino</description>
+      <calorias>320 kcal</calorias>
+      <price> 8.00€</price>
+      <imagen>./img/fnk_dortmund.png</imagen>
+    </plato>
+
+    <plato name="Frankfurts">
+      <name>BONN</name>
+      <description>Butifarra perol sobre delicioso pan de mantequilla, mozzarella rallada en una combinación crujiente y suave, alioli y cebollino</description>
+      <calorias>300 kcal</calorias>
+      <price> 7.95€</price>
+      <imagen>./img/fnk_bonn.png</imagen>
+    </plato>
+
+    <plato name="Frankfurts">
+      <name>ESSEN</name>
+      <description>Pikanwurst sobre delicioso pan de mantequilla, salsa de pepinillo, patatas paja, mozzarella rallada, salsa chipotle y pepinillo picado </description>
+      <calorias>350 kcal</calorias>
+      <price>8.50€</price>
+      <imagen>./img/fnk_essen.png</imagen>
+    </plato>
+
+    <plato name="Bocadillos">
+      <name>BREMEN</name>
+      <description>Lomo, bacon, ahumado, huevo y nuestro alioli casero</description>
+      <calorias>380 kcal</calorias>
+      <price>6.95.€</price>
+      <imagen>./img/bocadillo_bremen.png</imagen>
+    </plato>
+
+    <plato name="Bocadillos">
+      <name>DÜSSELDORF</name>
+      <description>Pollo, guacamole, nachos, queso cheddar, bacon crocante y salsa chipotle</description>
+      <calorias>325 kcal</calorias>
+      <price> 7.00€</price>
+      <imagen>./img/bocadillo_dusseldorf.png</imagen>
+
+    </plato>
+
+    <plato name="Bocadillos">
+      <name>ROSTACK</name>
+      <description>Bistec de ternera, queso cheddar, bacon ahumado, cebolla crujiente y salsa de carne</description>
+      <price> 6.50€</price>
+      <calorias>370 kcal</calorias>
+      <imagen>./img/bocadillo_rostack.png</imagen>
+
+    </plato>
+
+    <plato name="Bocadillos">
+      <name>PINCHOS COMPLETO</name>
+      <description>Pinchos, alioli, queso edam y cebolla pochada</description>
+      <calorias>370 kcal</calorias>
+      <price> 7.00€</price>
+      <imagen>./img/bocadillo_pinchos.png</imagen>
+
+    </plato>
+
+    <plato name="Bocadillos">
+      <name>KIEL</name>
+      <description>Pechuga de pollo, lechuga, tomate, cebolla crujiente y mahonesa</description>
+      <calorias>350 kcal</calorias>
+      <price>6.50€</price>
+      <imagen>./img/bocadillo_kiel.png</imagen>
+
+    </plato>    
+</carta>
